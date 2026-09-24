@@ -1,5 +1,5 @@
 {
- "versao": 2,
+ "versao": 3,
  "atualizado_em": "2026-09-24",
  "fonte": "API App Store Connect + Play Developer API, 24/09/2026 03h",
  "apps": [
@@ -37,7 +37,8 @@
    "id_apple": "6800503656",
    "id_android": "com.autotabela.app",
    "no_ar_ios": true,
-   "no_ar_android": true
+   "no_ar_android": false,
+   "obs": "Play: página da loja devolve 404 em 24/09 (faixa production existe mas o app não está público — conferir Console)"
   },
   {
    "chave": "capy",
@@ -49,7 +50,8 @@
    "id_apple": "6795796172",
    "id_android": "br.com.capy.palavras",
    "no_ar_ios": true,
-   "no_ar_android": true
+   "no_ar_android": false,
+   "obs": "Play: página da loja devolve 404 em 24/09 (faixa production existe mas o app não está público — conferir Console)"
   },
   {
    "chave": "feito",
@@ -61,7 +63,8 @@
    "id_apple": "6792930401",
    "id_android": "com.feitoapp.app",
    "no_ar_ios": true,
-   "no_ar_android": true
+   "no_ar_android": false,
+   "obs": "Play: página da loja devolve 404 em 24/09 (faixa production existe mas o app não está público — conferir Console)"
   },
   {
    "chave": "cnh",
@@ -173,5 +176,6 @@
    "no_ar_android": false,
    "obs": "conferir estado nas lojas"
   }
- ]
+ ],
+ "regra": "no_ar_android só vira true quando https://play.google.com/store/apps/details?id=<pacote> responder 200; no_ar_ios idem com https://apps.apple.com/br/app/id<id>"
 }
