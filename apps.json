@@ -1,5 +1,5 @@
 {
- "versao": 3,
+ "versao": 4,
  "atualizado_em": "2026-09-24",
  "fonte": "API App Store Connect + Play Developer API, 24/09/2026 03h",
  "apps": [
@@ -37,8 +37,8 @@
    "id_apple": "6800503656",
    "id_android": "com.autotabela.app",
    "no_ar_ios": true,
-   "no_ar_android": false,
-   "obs": "Play: página da loja devolve 404 em 24/09 (faixa production existe mas o app não está público — conferir Console)"
+   "no_ar_android": true,
+   "obs": "Play: página 404 em 24/09, mas Rafael mandou manter (vai ao ar em breve). Se um revisor reclamar, virar false aqui."
   },
   {
    "chave": "capy",
@@ -50,8 +50,8 @@
    "id_apple": "6795796172",
    "id_android": "br.com.capy.palavras",
    "no_ar_ios": true,
-   "no_ar_android": false,
-   "obs": "Play: página da loja devolve 404 em 24/09 (faixa production existe mas o app não está público — conferir Console)"
+   "no_ar_android": true,
+   "obs": "Play: página 404 em 24/09, mas Rafael mandou manter (vai ao ar em breve). Se um revisor reclamar, virar false aqui."
   },
   {
    "chave": "feito",
@@ -63,8 +63,8 @@
    "id_apple": "6792930401",
    "id_android": "com.feitoapp.app",
    "no_ar_ios": true,
-   "no_ar_android": false,
-   "obs": "Play: página da loja devolve 404 em 24/09 (faixa production existe mas o app não está público — conferir Console)"
+   "no_ar_android": true,
+   "obs": "Play: página 404 em 24/09, mas Rafael mandou manter (vai ao ar em breve). Se um revisor reclamar, virar false aqui."
   },
   {
    "chave": "cnh",
