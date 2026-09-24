@@ -1,5 +1,5 @@
 {
- "versao": 1,
+ "versao": 2,
  "atualizado_em": "2026-09-24",
  "fonte": "API App Store Connect + Play Developer API, 24/09/2026 03h",
  "apps": [
@@ -121,8 +121,8 @@
    "id_apple": "",
    "id_android": "com.peixes.app",
    "no_ar_ios": false,
-   "no_ar_android": true,
-   "obs": "só Android; nunca Apple (4.3b). Conferir se está em produção no Play (conta de serviço não enxerga)"
+   "no_ar_android": false,
+   "obs": "só Android; nunca Apple (4.3b). Play: só teste fechado (alpha 1.1.0) em 24/09 — produção pendente"
   },
   {
    "chave": "ninho",
