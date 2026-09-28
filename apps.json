@@ -1,6 +1,6 @@
 {
- "versao": 4,
- "atualizado_em": "2026-09-24",
+ "versao": 5,
+ "atualizado_em": "2026-09-28",
  "fonte": "API App Store Connect + Play Developer API, 24/09/2026 03h",
  "apps": [
   {
@@ -175,6 +175,18 @@
    "no_ar_ios": false,
    "no_ar_android": false,
    "obs": "conferir estado nas lojas"
+  },
+  {
+   "chave": "enem",
+   "nome": "Simulado ENEM 2026",
+   "descricao": "Questões reais do ENEM 2009–2025 com explicação",
+   "icone": "school",
+   "cor": "0B3D91",
+   "busca_loja": "Simulado ENEM 2026",
+   "id_apple": "",
+   "id_android": "br.com.simuladoenem.app",
+   "no_ar_ios": false,
+   "no_ar_android": false
   }
  ],
  "regra": "no_ar_android só vira true quando https://play.google.com/store/apps/details?id=<pacote> responder 200; no_ar_ios idem com https://apps.apple.com/br/app/id<id>"
