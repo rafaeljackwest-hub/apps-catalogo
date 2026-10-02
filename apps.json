@@ -1,6 +1,6 @@
 {
- "versao": 5,
- "atualizado_em": "2026-09-28",
+ "versao": 6,
+ "atualizado_em": "2026-10-01",
  "fonte": "API App Store Connect + Play Developer API, 24/09/2026 03h",
  "apps": [
   {
@@ -38,7 +38,7 @@
    "id_android": "com.autotabela.app",
    "no_ar_ios": true,
    "no_ar_android": true,
-   "obs": "Play: página 404 em 24/09, mas Rafael mandou manter (vai ao ar em breve). Se um revisor reclamar, virar false aqui."
+   "obs": "Play: ficha pública no ar em 01/10/2026 (https://play.google.com/store/apps/details?id=com.feitoapp.app responde 200)."
   },
   {
    "chave": "capy",
@@ -51,7 +51,7 @@
    "id_android": "br.com.capy.palavras",
    "no_ar_ios": true,
    "no_ar_android": true,
-   "obs": "Play: página 404 em 24/09, mas Rafael mandou manter (vai ao ar em breve). Se um revisor reclamar, virar false aqui."
+   "obs": "Play: ficha pública no ar em 01/10/2026 (https://play.google.com/store/apps/details?id=com.feitoapp.app responde 200)."
   },
   {
    "chave": "feito",
@@ -64,7 +64,7 @@
    "id_android": "com.feitoapp.app",
    "no_ar_ios": true,
    "no_ar_android": true,
-   "obs": "Play: página 404 em 24/09, mas Rafael mandou manter (vai ao ar em breve). Se um revisor reclamar, virar false aqui."
+   "obs": "Play: ficha pública no ar em 01/10/2026 (https://play.google.com/store/apps/details?id=com.feitoapp.app responde 200)."
   },
   {
    "chave": "cnh",
