@@ -1,6 +1,6 @@
 {
- "versao": 6,
- "atualizado_em": "2026-10-01",
+ "versao": 7,
+ "atualizado_em": "2026-10-02",
  "fonte": "API App Store Connect + Play Developer API, 24/09/2026 03h",
  "apps": [
   {
@@ -76,7 +76,7 @@
    "id_apple": "6808901256",
    "id_android": "br.com.simuladocnh.app",
    "no_ar_ios": true,
-   "no_ar_android": false
+   "no_ar_android": true
   },
   {
    "chave": "historela",
@@ -112,7 +112,7 @@
    "id_apple": "6810447271",
    "id_android": "com.goleiroja.app",
    "no_ar_ios": true,
-   "no_ar_android": false
+   "no_ar_android": true
   },
   {
    "chave": "peixes",
