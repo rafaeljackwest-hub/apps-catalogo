@@ -1,6 +1,6 @@
 {
-  "versao": 10,
-  "atualizado_em": "2026-10-30",
+  "versao": 11,
+  "atualizado_em": "2026-11-01",
   "fonte": "API App Store Connect + Play Developer API, 24/09/2026 03h",
   "analytics": {
     "url": "https://worldinstories.com/stats",
@@ -202,6 +202,18 @@
       "busca_loja": "Simulado ENEM 2026",
       "id_apple": "",
       "id_android": "br.com.simuladoenem.app",
+      "no_ar_ios": false,
+      "no_ar_android": false
+    },
+    {
+      "chave": "lerio",
+      "nome": "Lerio: leitor por voz",
+      "descricao": "Ouça seus livros e PDFs em voz alta, com teleprompter",
+      "icone": "record_voice_over",
+      "cor": "1F6F78",
+      "busca_loja": "Lerio leitor por voz",
+      "id_apple": "6829442319",
+      "id_android": "app.lerio.lerio",
       "no_ar_ios": false,
       "no_ar_android": false
     }
