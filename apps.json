@@ -1,6 +1,6 @@
 {
-  "versao": 11,
-  "atualizado_em": "2026-11-01",
+  "versao": 12,
+  "atualizado_em": "2026-11-07",
   "fonte": "API App Store Connect + Play Developer API, 24/09/2026 03h",
   "analytics": {
     "url": "https://worldinstories.com/stats",
@@ -203,7 +203,7 @@
       "id_apple": "",
       "id_android": "br.com.simuladoenem.app",
       "no_ar_ios": false,
-      "no_ar_android": false
+      "no_ar_android": true
     },
     {
       "chave": "lerio",
